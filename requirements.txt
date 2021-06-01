@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.1
+requests==2.7.0
+pyTelegramBotAPI==3.7.2
+schedule==0.6.0
+selenium==3.141.0
+
